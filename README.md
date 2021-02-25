@@ -4,6 +4,9 @@
 
 In-depth documentation on PancakeSwap is available at [docs.pancakeswap.finance](https://docs.pancakeswap.finance/).
 
+## factory contract 
+`0x0b36eD2C7A510Eb821dFc12aaBf7cfdE14d7cbc1`
+
 # Local Development
 
 The following assumes the use of `node@>=10`.
@@ -19,3 +22,5 @@ The following assumes the use of `node@>=10`.
 ## Run Tests
 
 `yarn test`
+
+
