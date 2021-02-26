@@ -1,4 +1,4 @@
-# Pancake Factory
+# Plus Factory
 
 [![Actions Status](https://github.com/pancakeswap/pancake-swap-core/workflows/CI/badge.svg)](https://github.com/pancakeswap/pancake-swap-core/actions)
 
